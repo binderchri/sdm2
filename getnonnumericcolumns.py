@@ -1,7 +1,6 @@
 file = "/home/binderchri/kddcup1999/kddcup.data.corrected"
 delim = ","
 
-
 # http://stackoverflow.com/questions/354038/how-do-i-check-if-a-string-is-a-number-float-in-python
 def is_number(s):
     try:
